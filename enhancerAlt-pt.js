@@ -96,7 +96,7 @@ var userset,
     priorityThreeButton: "Skip",
     defaultButton: "Skip",
   },
-  availableLangs = ["en", "es", "el", "ar", "it", "pt"];
+  availableLangs = ["en", "pt"];
 function run() {
   console.log("run"),
     checkVersion(),
