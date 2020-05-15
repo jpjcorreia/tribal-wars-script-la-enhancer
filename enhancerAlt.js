@@ -2,7 +2,7 @@ var keyToEdit,
   current_units,
   version = "1.13.1 Fixed By Ibra - PT - jpjcorreia",
   scriptName = "LA Enhancer (1.13.1) - Fixed by Ibra Gonza II - PT - jpjcorreia",
-  scriptURL = "https://raw.githubusercontent.com/jpjcorreia/tribal-wars-script-la-enhancer/master/",
+  scriptURL = "https://cdn.jsdelivr.net/gh/jpjcorreia/tribal-wars-script-la-enhancer@master/",
   updateNotesURL =
     "https://forum.tribalwars.net/index.php?threads/ntoombs19s-fa-filter.266604/page-15#post-7053294",
   working = !0,
