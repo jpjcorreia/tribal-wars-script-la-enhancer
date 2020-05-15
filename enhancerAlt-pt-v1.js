@@ -1625,17 +1625,7 @@ function loadLanguage(e) {
 }
 function addLanguages() {
   window.top.$("#language").append("<option value='en'>English</option>"),
-    window.top
-      .$("#language")
-      .append("<option value='el'>ÃŽâ€¢ÃŽÂ»ÃŽÂ»ÃŽÂ·ÃŽÂ½ÃŽÂ¹ÃŽÂºÃŽÂ¬</option>"),
-    window.top.$("#language").append("<option value='it'>Italiano</option>"),
-    window.top.$("#language").append("<option value='pt'>Portugues</option>"),
-    window.top.$("#language").append("<option value='es'>EspaÃƒÂ±ol</option>"),
-    window.top
-      .$("#language")
-      .append(
-        "<option value='ar'>Ã˜Â§Ã™â€žÃ™â€žÃ˜ÂºÃ˜Â© Ã˜Â§Ã™â€žÃ˜Â¹Ã˜Â±Ã˜Â¨Ã™Å Ã˜Â©</option>"
-      );
+  window.top.$("#language").append("<option value='pt'>Portugues</option>");
 }
 function parseBool(e) {
   return (
